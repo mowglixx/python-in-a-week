@@ -85,4 +85,4 @@ This Module will be quite light as there is a [weekend project](#module-6---7-we
 
 ### Module 6 - 7. Weekend Project
 
-WIP
+Coming Soon
