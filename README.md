@@ -49,7 +49,7 @@ This course is divided into modules and is intended to be followed in order.
 
 ### Module 1. Data, Types and Manipulation
 
-On Day 1 to avoid confusion we will be learning some `concepts` to build upon as the course progresses, this will get you familliar with a certain `workflow` that will get you confortable within a code editor window and using the terminal.
+On Day 1 to avoid confusion we will be learning some `concepts` to build upon as the course progresses, this will get you familliar with a certain `workflow` that will get you comfortable within a code editor window and using the terminal.
 
 You will learn the basics of programming, these principles, starting with `Data`, `Data Types` and `Data Manipulation`, will open the door to other languages, for the sake of simplicity and readability we will be using Python 3.10 or greater. 
 
