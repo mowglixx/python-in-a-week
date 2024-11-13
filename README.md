@@ -44,7 +44,7 @@ This course is divided into modules and is intended to be followed in order.
 | [Functions](#module-3-functions)                  |  3   | 
 | [Classes](#module-4-classes) |  4   | 
 | [Project Planning](#module-5-project-planning)                      |  5   | 
-| [Weekend Project](#module-6---7-weekend-project)                       |  6-7 | 
+| [Weekend Project](#module-6-weekend-project)                       |  6-7 | 
 
 
 ### Module 1. Data, Types and Manipulation
@@ -83,6 +83,6 @@ This Module will be quite light as there is a [weekend project](#module-6---7-we
 
 `Planning` can prevent you from spending too much time on `Feature A` when you need `Feature B` finished an hour ago.
 
-### Module 6 - 7. Weekend Project
+### Module 6. Weekend Project
 
 Coming Soon
