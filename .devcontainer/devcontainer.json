@@ -1,0 +1,11 @@
+{
+	"name": "Python in a Week Dev Environment",
+	"additionalProperties": {
+		"author": "Dan Monaghan",
+		"course_name": "Python in a Week",
+		"description": "Python in a week is a simple coding course designed to be studied and completed within one week.",
+		"github": "https://github.com/mowglixx",
+		"github_repo": "https://github.com/mowglixx/python-in-a-week"
+	},
+	"image": "python:3"
+}
