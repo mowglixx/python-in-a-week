@@ -16,7 +16,7 @@ This project is intended to work within a Dev Container
   - Windows 10+
   - Linux (Kernel 5+)
   - Mac OS
-- a Docker capable processor
+- A Docker capable processor
 - 8 GB of RAM
 - 8+ GB Disk Space
 - Active Internet Connection
@@ -37,14 +37,14 @@ To install extensions in VS Code see ([How to install Extensions](https://code.v
 
 This course is divided into modules and is intended to be followed in order.
 
-| Module                                                      | Day  | 
-|------------------------------------------------------------:|:-----|
-| [Data, Types and Manipulation](#day-1-data-types-and-manipulation)          |  1   | 
-| [Logic, Scope and Loops](#day-2-logic-scope-and-loops)                |  2   | 
-| [Functions](#day-3-functions)                  |  3   | 
-| [Classes](#day-4-classes) |  4   | 
-| [Project Planning](#day-5-project-planning)                      |  5   | 
-| [Weekend Project](#day-6---7-weekend-project)                       |  6-7 | 
+| Module                                                     |  Day  | 
+|:-----------------------------------------------------------|:-----:|
+| [Data, Types and Manipulation](#module-1-data-types-and-manipulation)          |  1   | 
+| [Logic, Scope and Loops](#module-2-logic-scope-and-loops)                |  2   | 
+| [Functions](#module-3-functions)                  |  3   | 
+| [Classes](#module-4-classes) |  4   | 
+| [Project Planning](#module-5-project-planning)                      |  5   | 
+| [Weekend Project](#module-6---7-weekend-project)                       |  6-7 | 
 
 
 ### Module 1. Data, Types and Manipulation
@@ -58,16 +58,14 @@ You will learn the basics of programming, these principles, starting with `Data`
 On Day 2 you will learn about the concept of `scope` and how it impacts your code, we will learn about `logic` and `flow control`, this powerful concept is a lot simpler than it sounds and is used in every module afterwards, it boils down to:
 
 ```
-if this ... this,
-if that ... that,
-otherwise ... nothing
+if 'this' then 'that'
 ```
 
 If you understand the above then you should be fine, when adding loops to this module you just do it all again!
 
 ### Module 3. Functions
 
-In this module you will learn about re-using code and building larger building blocks to work with, imagine you were building a huge Lego Castle but all the pieces are tiny, it would take you an age just to finish a single wall! 
+In this module you will learn about re-using code and building larger building blocks to work with, imagine you were building a huge Lego® Castle but all the pieces are tiny, it would take you an age just to finish a single wall! 
 
 When we build our own `functions` we can make bigger pieces to build our projects with thus speeding up our productivity, neat.
 
@@ -79,7 +77,7 @@ In this module you will learn about `Object Oriented Programming`, or `OOP` for 
 
 ### Module 5. Project Planning
 
-This Module will be quite light as there is a [weekend project](#day-6---7-weekend-project) to help you **acheive a goal**, that goal will be determined by **you**, there will be advice on tools to use online to help you plan you project so you can learn an important skill in programming... Time management, no joke. 
+This Module will be quite light as there is a [weekend project](#module-6---7-weekend-project) to help you **acheive a goal**, that goal will be determined by **you**, there will be advice on tools to use online to help you plan you project so you can learn an important skill in programming... Time management, no joke. 
 
 >If you're like me and *PC* may as well stand for *Personal Casino* (not gambling just time awareness) then it can be important to set limits, programming is resource heavy on your body without you noticing, remember to hydrate! 
 
